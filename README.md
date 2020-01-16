@@ -17,9 +17,10 @@ Link to our Powerpoint Presentation: https://docs.google.com/presentation/d/1kFW
 
 Disclaimer: TimeSync needs authorization from the managing authorization(IIITD in this case) to upload data to every student's google calendar. May not work without proper permissions.
 
-Made by Crypton 
+Made by Crypton as an  Independent Project
 
 Team Crypton:
-Rohan Jain
+
 Karanjot Singh
+Rohan Jain
 Samarth Saxena
